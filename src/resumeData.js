@@ -15,16 +15,6 @@ let resumeData = {
           "name":"github",
           "url":"https://github.com/jasonrostar/",
           "className":"fa fa-github"
-        },
-        {
-          "name":"FaceBook",
-          "url":"http://facebook.com/alljsh/",
-          "className":"fa fa-facebook"
-        },
-        {
-            "name":"Instagram",
-            "url":"https://www.instagram.com/alljsh/",
-            "className":"fa fa-instagram"
         }
       ],
     "aboutme":"Lorem Ipsum",
