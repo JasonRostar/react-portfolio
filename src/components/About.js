@@ -35,7 +35,7 @@ export default class About extends Component {
                     </span>
                     <br></br>
                     {/*<span>{resumeData.website}</span>*/}
-                      <span>{!!resumeData.phonenumber && <a href={`tell:${resumeData.phonenumber}`}>{resumeData.phonenumber}</a>}</span>
+                      <span>{!!resumeData.phonenumber && <a href={`tel:${resumeData.phonenumber}`}>{resumeData.phonenumber}</a>}</span>
                       {/*<span>{resumeData.phonenumber}</span>*/}
                       <br></br>
                       <span>{!!resumeData.email ? <a href={`mailto:${resumeData.email}`}>{resumeData.email}</a> : resumeData.email}</span>

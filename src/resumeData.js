@@ -4,7 +4,7 @@ let resumeData = {
     // "role": "",
     // "linkedinId":"Your LinkedIn Id",
     // "skypeid": "Your skypeid",
-    "roleDescription": "Web developer with 5 years of experience creating attractive and responsive web apps with ReactJS, SASS, and with backend technologies such as NodeJS, Express, SQL. Worked remotely as database and systems administrator relying heavily on clear and concise communication with support from abroad. Experience leading diverse teams in high stress situations.",
+    "roleDescription": "Web developer with 5 years of experience creating attractive and responsive web apps with ReactJS, SASS, Wordpress and with backend technologies such as NodeJS, Express, PHP, and SQL. Worked remotely as database and systems administrator relying heavily on clear and concise communication with support from abroad. Experience leading diverse teams in demanding environments.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -46,7 +46,7 @@ let resumeData = {
         "specialization":"Aviation Maintenanace Administration",
         "MonthOfLeaving":"April",
         "YearOfLeaving":"2016",
-        "Achievements":"Maintained server and database integrity and security,created and managed user login accounts, input, verify and validate data pertaining to aeronautical equipment, managed hardware and software upgrades"
+        "Achievements":"Maintained server and database integrity and security, created and managed user login accounts, input, verify and validate data pertaining to aeronautical equipment, managed hardware and software upgrades"
       },
       {
         "CompanyName":"United States Navy - San Diego - NAVCONBRIG Miramar",
