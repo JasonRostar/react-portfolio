@@ -17,9 +17,9 @@ let resumeData = {
           "className":"fa fa-github"
         }
       ],
-    "aboutme":"Lorem Ipsum",
+    "aboutme":"Originally from Livingston County, Michigan, much of my adult life has been spent traveling in the Navy. South Korea, Japan, Australia, Guam, Thailand, Philippines and Singapore are just a few places I've been lucky enough to visit.",
     "address":"Oregon",
-    // "website":"https://jasonrostar.com",
+    "website":"www.jasonrostar.com",
     "phonenumber":"(541) 226-6367",
     "email":"jason.rostar@yahoo.com",
     "education":[
