@@ -17,7 +17,7 @@ let resumeData = {
           "className":"fa fa-github"
         }
       ],
-    "aboutme":"Originally from Livingston County, Michigan, much of my adult life has been spent traveling in the Navy. South Korea, Japan, Australia, Guam, Thailand, Philippines and Singapore are just a few places I've been lucky enough to visit.",
+    "aboutme":"Super lucky husband of Katrina Rostar and proud father of JJ Rostar (plus 1 on the way!!). Originally from Livingston County, Michigan, much of my adult life has been spent traveling in the Navy. Places I've been blessed enough to have visited are South Korea, Japan, Australia, Hawaii, Guam, Thailand, Philippines and Singapore, just to name a few!",
     "address":"Oregon",
     "website":"www.jasonrostar.com",
     "phonenumber":"(541) 226-6367",
