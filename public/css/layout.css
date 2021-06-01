@@ -463,8 +463,8 @@ ul#nav li.current a { color: #11ABB0; }
 
 .projects {
    display: grid;
-   grid-gap: 0.7rem;
-   grid-template-columns: repeat(4, 2fr);
+   grid-template-columns: repeat(3, 1fr);
+   grid-auto-rows: minmax(100px, auto);
 }
 
  .single-img:hover {

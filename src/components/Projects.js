@@ -3,6 +3,7 @@ import project1 from '../assets/images/project1.png';
 import project2 from '../assets/images/project2.png';
 import project3 from '../assets/images/project3.png';
 import project4 from '../assets/images/project4.png';
+import project5 from '../assets/images/project5.png';
 export default class Projects extends Component {
   render() {
     
@@ -23,6 +24,9 @@ export default class Projects extends Component {
                 </a>
                 <a href="https://suekernrealestate.com" target="_blank" rel="noopener noreferrer">
                     <img className="single-img"  src={project4} alt="Sue Kern Real Estate Site" />
+                </a>
+                <a href="https://kjandjjmerch.com" target="_blank" rel="noopener noreferrer">
+                    <img className="single-img"  src={project5} alt="KJ and JJ Merch" />
                 </a>
               </div>
       </section>
