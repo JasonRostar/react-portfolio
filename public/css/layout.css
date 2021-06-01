@@ -464,13 +464,8 @@ ul#nav li.current a { color: #11ABB0; }
 .projects {
    display: grid;
    grid-gap: 0.7rem;
-   grid-template-columns: repeat(3, 1fr);
+   grid-template-columns: repeat(4, 2fr);
 }
-
- .single-img {
-     width: 100%;
-     border: 3px #fff solid;
- }
 
  .single-img:hover {
        opacity: 0.5;
@@ -695,7 +690,6 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-   /*background: #1F1F1F url(../images/testimonials-bg.jpg) no-repeat center center;*/
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;
